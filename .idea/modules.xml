@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckPrime/CheckPrime.iml" filepath="$PROJECT_DIR$/CheckPrime/CheckPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-JAVA-Loop.iml" filepath="$PROJECT_DIR$/MD2-JAVA-Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TienLai/TienLai.iml" filepath="$PROJECT_DIR$/TienLai/TienLai.iml" />
+    </modules>
+  </component>
+</project>
